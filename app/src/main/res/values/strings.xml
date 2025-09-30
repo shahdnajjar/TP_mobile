@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ComposantGUI</string>
+    <string name="prompt">Choisir La saison</string>
+    <array name="saisons">
+
+        <item>printemps</item>
+        <item>été</item>
+        <item>automne</item>
+        <item>hiver</item>
+    </array>
+</resources>
